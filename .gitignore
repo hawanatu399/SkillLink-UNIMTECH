@@ -1,0 +1,15 @@
+.env
+.env.*
+config/local.php
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+uploads/*
+!uploads/
+!uploads/profile_pictures/
+!uploads/resources/
+uploads/resources/*
